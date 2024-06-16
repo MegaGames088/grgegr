@@ -1185,7 +1185,7 @@ function L_10_:MakeWindow(L_124_arg1)
                 Font = Enum.Font.GothamBold,
                 ClipsDescendants = true
             }), "Text"),
-            L_23_func(L_19_func(L_18_func("Label", "Tester", 12), {
+            L_23_func(L_19_func(L_18_func("Label", "Premium", 12), {
                 Size = UDim2.new(1, -60, 0, 12),
                 Position = UDim2.new(0, 50, 1, -25),
                 Visible = L_124_arg1.TestMode
